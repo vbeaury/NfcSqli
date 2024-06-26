@@ -1,0 +1,91 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+# .NET
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# OSX
+.DS_Store
+
+# MAUI specific
+AppPackages/
+*.app/
+*.app.dSYM/
+*.ipa
+*.apk
+*.ap_/
+*.aab
+*.apks
+*.xcarchive/
+*.xcworkspace/
+!*.xcworkspace/contents.xcworkspacedata
+*.pbxproj
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcscheme
+*.xccheckout
+*.xcuserstate
+
+# Android specific
+*.keystore
+*.jks
+build/
+.idea/
+.gradle/
+local.properties
+.cxx/
+.externalNativeBuild/
